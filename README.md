@@ -3,9 +3,15 @@
 ![Profile views](https://gpvc.arturio.dev/maksonss4)
 
 
-<div>
+<div align="center">
 <!--   <a href="https://github.com/maksonss4">aqui</a> -->
 
-<img width="35%" margin_right="10%" src="https://github-readme-stats-rho-vert.vercel.app/api?username=maksonss4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img width="35%" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=maksonss4&layout=compact&theme=graywhite&hide_border=true" />
+<img width="45%" margin_right="10%" src="https://github-readme-stats-rho-vert.vercel.app/api?username=maksonss4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img width="45%" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=maksonss4&layout=compact&theme=graywhite&hide_border=true" />
+</div>
+<br/>
+<div align="center">
+  <a href ="mailto:maksonsantoss4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/makson-sillas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://tinyurl.com/hello-makson" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
