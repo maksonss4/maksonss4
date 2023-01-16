@@ -6,6 +6,6 @@
 <div>
 <!--   <a href="https://github.com/maksonss4">aqui</a> -->
 
-<img src="https://github-readme-stats-20.vercel.app/api?username=maksonss4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats-20.vercel.app/api/top-langs/?username=maksonss4&layout=compact&theme=graywhite&hide_border=true" width="313" />
+<img width="35%" margin_right="10%" src="https://github-readme-stats-rho-vert.vercel.app/api?username=maksonss4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img width="35%" src="https://github-readme-stats-rho-vert.vercel.app/api/top-langs/?username=maksonss4&layout=compact&theme=graywhite&hide_border=true" />
 </div>
