@@ -1,6 +1,5 @@
 # Olá, me chamo Makson! 
 ## Bem vindo ao meu perfil GitHub 👋
-![Profile views](https://gpvc.arturio.dev/maksonss4)
 
 #### Principais tecnologias e ferramentas:
 <div align="center" margin="auto">
